@@ -4,7 +4,9 @@
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Extra Sci Fi (ALL EPISODES)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5AuEhpcGAo4ngmSDKuFgZZx)
+[Q-Bert Skratch tip: CELL PHONES ARE DISTRACTIONS!](https://www.youtube.com/watch?v=or57N6pGYUM)
+
+[Extra Sci Fi (ALL EPISODES)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5AuEhpcGAo4ngmSDKuFgZZx) 
 
 [Lord of the Rings - The Two Towers - Extra Sci Fi - #2](https://www.youtube.com/watch?v=itYfBiB3bmM)
 
