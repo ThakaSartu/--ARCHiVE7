@@ -1,5 +1,11 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Extra Sci Fi (ALL EPISODES)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5AuEhpcGAo4ngmSDKuFgZZx)
+
+[Lord of the Rings - The Two Towers - Extra Sci Fi - #2](https://www.youtube.com/watch?v=itYfBiB3bmM)
+
+[Isaac Asimov, Visions For The Future (1992)](https://www.youtube.com/watch?v=V4Ux83nJC0U)
+
 [SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS](https://www.youtube.com/watch?v=UoZJYTRZgpc)
 
 [ATLANTA SEX TRAFFICKING (SAFTY TIPS) MUST WATCH❗️ROSE POCAHONTAS](https://www.youtube.com/watch?v=bAh23XrvjEE) 
