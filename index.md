@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="%100" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS](https://www.youtube.com/watch?v=UoZJYTRZgpc)
 
@@ -36,3 +36,10 @@
 </div>
 
 [Missy Elliott - Lose Control (feat. Ciara & Fat Man Scoop) [Official Music Video]](https://www.youtube.com/watch?v=na7lIb09898)
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################################
+{% endhighlight %}
