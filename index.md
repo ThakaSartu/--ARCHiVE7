@@ -1,3 +1,7 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zoCR9Pk4tGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Hr4wz4-27PY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Extra Sci Fi (ALL EPISODES)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5AuEhpcGAo4ngmSDKuFgZZx)
