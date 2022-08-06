@@ -53,15 +53,6 @@
 
 </div>
 
-[Missy Elliott - Lose Control (feat. Ciara & Fat Man Scoop)[Official Music Video]](https://www.youtube.com/watch?v=na7lIb09898)
-
-{% highlight ruby %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE##############################################
-{% endhighlight %}
-
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -77,8 +68,20 @@
   </div>
 </div>
 
+
+[Missy Elliott - Lose Control (feat. Ciara & Fat Man Scoop)[Official Music Video]](https://www.youtube.com/watch?v=na7lIb09898)
 [Stevie Wonder - Songs In The Key Of Life (1976) Part 1 (Full Double Album + Bonus Single)](https://youtu.be/HrJB-MItdVY)
 [STEViE_WONDER::DiSCOGS_PROFiLE::DiSCOGRAPHY_iNFO](https://www.discogs.com/artist/18956-Stevie-Wonder)
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################################
+{% endhighlight %}
+
+
+
 
 <div class="flex3BorderedPaddedROW">
   <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
