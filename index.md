@@ -1,4 +1,4 @@
-[Lights Out, Words Gone](https://www.youtube.com/watch?v=7hvWbYsr1HM) [DEAR_HUMA, Lets play with those google fonts You, Muna, Sartu, LeeLahBaeLah started researching](https://developers.google.com/fonts)
+[Here are all emoji characters listed in Unicode emoji version 3.0 (from Unicode version 9.0).](https://www.quackit.com/character_sets/emoji/emoji_v3.0/unicode_emoji_v3.0_characters_all.cfm) [Lights Out, Words Gone](https://www.youtube.com/watch?v=7hvWbYsr1HM) [DEAR_HUMA, Lets play with those google fonts You, Muna, Sartu, LeeLahBaeLah started researching](https://developers.google.com/fonts)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zoCR9Pk4tGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -53,20 +53,6 @@
 
 </div>
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket">
-      </div>
-    </div>
-  </div>
-</div>
 
 
 [Missy Elliott - Lose Control (feat. Ciara & Fat Man Scoop)[Official Music Video]](https://www.youtube.com/watch?v=na7lIb09898)
@@ -110,34 +96,6 @@
     </div>
   </div>
 </div>
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://static.roland.com/assets/images/products/main/dj-505_main.jpg">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://static.roland.com/assets/images/products/main/dj-505_main.jpg">
-      </div>
-    </div>
-  </div>
-</div>
-
-[Stevie Wonder – Stevie Wonder's Journey Through The Secret Life Of Plants](https://www.discogs.com/master/86450-Stevie-Wonder-Stevie-Wonders-Journey-Through-The-Secret-Life-Of-Plants)
-[Stevie Wonder - Innervisions Live Compilation](https://youtu.be/wiOHNJmiYCo)
-[INNERVISIONS (Side I) By Stevie Wonder](https://youtu.be/ZkluFWf0yys)
-[Stevie Wonder - The Original Musiquarium I _ VINYL _ (1982) disco 2 side D](https://youtu.be/HNvF5nHbdmM)
-[Stevie Wonder "VINYL" - The Original Musiquarium I (disc 2 side C) 1982](https://youtu.be/mMRIhouKDUA)
-[Stevie Wonder VINYL - The Original Musiquarium I (disc 1 side B) 1982...](https://youtu.be/HNvF5nHbdmM)
-[Raptors Halftime Show - DJ Jazzy Jeff, Skratch Bastid, Hedspin & Four Color Zack](https://youtu.be/iHxvJObhxs8)
-[Skratch School - Roland DJ-808 - Recreating Run-DMC's "Peter Piper"](https://youtu.be/uf-I0-a9BO0)
-[Roland DJ-505 DJ Controller for Serato Video Manual](https://youtu.be/ix_4gGWgVJ0)
-[Roland DJ-505 Demonstration](https://youtu.be/Hl9KRtWHVhc)
-[Blunt Vietnam Vet Marine Tells You Exactly What Happened To Him](https://youtu.be/tixOyiR8B-8)
-[Wayne Gretzky || Career NHL Highlights || 1979-1999 ](https://youtu.be/iRD5Fn8ecsg)
-[Bishop Bullwinkle Hell To Da Naw,Naw,Naw With Da Bicycle](https://youtu.be/8QxIIz1yEsA)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
