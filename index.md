@@ -5,7 +5,28 @@
         
       }
     </style>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/vglxk3JbHnQ" title="Bombay Bicycle Club - Lights Out, Words Gone (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+[SWV - Rain](https://youtu.be/e4C0r7UM4Cs)
+[DREEZY-BADBiTCH](https://youtu.be/iDz19sE7ehc)
+[DREEZY_Don't Know Me](https://youtu.be/lOX1hhRDT0g)
+[Dreezy - Body](https://youtu.be/i0Fh1SkjXPQ)
+[Dreezy - Spazz](https://youtu.be/mfS0-zDJztM)
+[Hitkidd & Glorilla - FNF](https://youtu.be/ww6ykF2ktaI)
+[Chief Keef - Love Sosa_NO_ONE_OWNS_COLLOQUiAL_PHRASES](https://youtu.be/YWyHZNBz6FE)
+[Saweetie - My Type](https://youtu.be/x5c2iRHlAHA)
+[GOAPELE_ft_CARL_CARLSON::DiFFERENT](https://youtu.be/uUsxseXL6mw)
+[Latto_ft_SAWEETiE - BiTCH FRUM DAH SOUF](https://youtu.be/x8mAyKX9muE)
+[Kash Doll ft. DJ Infamous, Mulatto & Benny The Butcher - Bad Azz](https://youtu.be/N4oMrTT_fZw)
+[Latto - Muwop ft. Gucci Mane](https://youtu.be/meFxq3-mNEc)
+[Kash Doll - Thumbin](https://youtu.be/Knt-zAyH1v8)
+[GLOBAL_PROSTiYUTiON_POLiTiKS::Megan Thee Stallion - Thot Shit](https://youtu.be/KynkMn5Hv3Q)
+[Megan Thee Stallion - Captain Hook](https://youtu.be/n5LWsc-qCdA)
+[Megan Thee Stallion - B.I.T.C.H. ](https://youtu.be/BF8TE5qsOCs)
+[DJ Taz – That's Riiiiiight](https://youtu.be/G0yOF5dpCLw)
+[Tay B x Kash Doll - Like Woah](https://youtu.be/XJOKtclFErI)
+[Megan Thee Stallion - Big Ole Freak ](https://youtu.be/oBYf6gpVvRA)
 
 ![HEX_IS_MY_BROTHER_IN_LAW_BY_THAKA](http://images.squarespace-cdn.com/content/v1/53f40cd1e4b0ba399aaf6df4/1419241885568-84H71J0KJGD6L8MLIWY5/IMG_8646_2.jpg)
 
@@ -127,7 +148,7 @@
 <h2>WASHiNGTON_POST:"Violence against women rampant under Taliban"</h2>
 Women in Afghanistan have faced an onslaught of violence and human rights abuses since the Taliban’s return to national power less than a year ago — and the “scope, magnitude and severity” of violations are “increasing month to month,” according to a new report by Amnesty International... <a href="https://www.msn.com/en-us/news/world/violence-against-women-rampant-under-taliban-new-report-finds/ar-AA102ah8?cvid=3a104b0837b642d7a20f54f95196de90#image=1">ReadMore, Its just like LOS_ANGELES&ATLANTA_PROSTiTUTiON... NoBODY_iS_READiNG_THE_QURAN in these ##ABUSiVE_ViBRATionS</a>
 
-</ul>
+
 <img src="https://www.graffiti.org/atl/viper_totem2_54266a_o.jpg">
 <img src="https://apod.nasa.gov/apod/image/0503/accretion_mpowen_full.jpg">
 <img src="https://rnbmagazine.com/wp-content/uploads/2016/03/12540994_1251998834814743_6271972541806376283_n.jpg">
@@ -176,25 +197,6 @@ Women in Afghanistan have faced an onslaught of violence and human rights abuses
 </div>
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/KASHDOLL_SHADES.gif">
 
-[SWV - Rain](https://youtu.be/e4C0r7UM4Cs)
-[DREEZY-BADBiTCH](https://youtu.be/iDz19sE7ehc)
-[DREEZY_Don't Know Me](https://youtu.be/lOX1hhRDT0g)
-[Dreezy - Body](https://youtu.be/i0Fh1SkjXPQ)
-[Dreezy - Spazz](https://youtu.be/mfS0-zDJztM)
-[Hitkidd & Glorilla - FNF](https://youtu.be/ww6ykF2ktaI)
-[Chief Keef - Love Sosa_NO_ONE_OWNS_COLLOQUiAL_PHRASES](https://youtu.be/YWyHZNBz6FE)
-[Saweetie - My Type](https://youtu.be/x5c2iRHlAHA)
-[GOAPELE_ft_CARL_CARLSON::DiFFERENT](https://youtu.be/uUsxseXL6mw)
-[Latto_ft_SAWEETiE - BiTCH FRUM DAH SOUF](https://youtu.be/x8mAyKX9muE)
-[Kash Doll ft. DJ Infamous, Mulatto & Benny The Butcher - Bad Azz](https://youtu.be/N4oMrTT_fZw)
-[Latto - Muwop ft. Gucci Mane](https://youtu.be/meFxq3-mNEc)
-[Kash Doll - Thumbin](https://youtu.be/Knt-zAyH1v8)
-[GLOBAL_PROSTiYUTiON_POLiTiKS::Megan Thee Stallion - Thot Shit](https://youtu.be/KynkMn5Hv3Q)
-[Megan Thee Stallion - Captain Hook](https://youtu.be/n5LWsc-qCdA)
-[Megan Thee Stallion - B.I.T.C.H. ](https://youtu.be/BF8TE5qsOCs)
-[DJ Taz – That's Riiiiiight](https://youtu.be/G0yOF5dpCLw)
-[Tay B x Kash Doll - Like Woah](https://youtu.be/XJOKtclFErI)
-[Megan Thee Stallion - Big Ole Freak ](https://youtu.be/oBYf6gpVvRA)
 <!-- ##Dear_CORAL_MEYU_JABDU No matter how disrespectful you watched ##COHABiTATiON get with those child molesting Kidnappers. The work we put in regards to organizaation and excelling in design in our demographic saved everyones life. MUNA, ErikaH, and sartu were able to save us using my design skillset that i passed on to the family and all those extended mofos that latched on at Dance411 -->
 <div class='twoPanelSpread'>
   <div class='row'>
