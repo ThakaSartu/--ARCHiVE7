@@ -1126,5 +1126,5 @@ Thanks for the song, it left me in tears
   ```
 
   ```
-  The final element.
+  The final elemenT.
   ```
