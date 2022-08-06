@@ -1,4 +1,15 @@
-[Here are all emoji characters listed in Unicode emoji version 3.0 (from Unicode version 9.0).](https://www.quackit.com/character_sets/emoji/emoji_v3.0/unicode_emoji_v3.0_characters_all.cfm) [Lights Out, Words Gone](https://www.youtube.com/watch?v=7hvWbYsr1HM) [DEAR_HUMA, Lets play with those google fonts You, Muna, Sartu, LeeLahBaeLah started researching](https://developers.google.com/fonts)
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400&family=Lato:ital,wght@0,400;1,400&display=swap');
+      body {
+        font-family: 'Kanit', serif;
+        
+      }
+    </style>
+
+
+![HEX_IS_MY_BROTHER_IN_LAW_BY_THAKA](http://images.squarespace-cdn.com/content/v1/53f40cd1e4b0ba399aaf6df4/1419241885568-84H71J0KJGD6L8MLIWY5/IMG_8646_2.jpg)
+
+[Full Emoji List, v14.0](https://unicode.org/emoji/charts/full-emoji-list.html) [Here are all emoji characters listed in Unicode emoji version 3.0 (from Unicode version 9.0).](https://www.quackit.com/character_sets/emoji/emoji_v3.0/unicode_emoji_v3.0_characters_all.cfm) [Lights Out, Words Gone](https://www.youtube.com/watch?v=7hvWbYsr1HM) [DEAR_HUMA, Lets play with those google fonts You, Muna, Sartu, LeeLahBaeLah started researching](https://developers.google.com/fonts)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zoCR9Pk4tGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
