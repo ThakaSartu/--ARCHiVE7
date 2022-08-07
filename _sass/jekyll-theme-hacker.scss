@@ -1,5 +1,5 @@
 @import "rouge-base16-dark";
-@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@200&display=swap');
 @import "default_colors";
 
 $body-background: $cod-grey  !default;
@@ -124,8 +124,8 @@ header h1 {
 
 
 header h1:before {
-  font-family: 'Monoton', cursive;
-  content: "./BUBBLEGUMPOP °º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸";
+font-family: 'Big Shoulders Display', cursive;
+  content: "./BUBBLEGUMPOP";
   font-size: 4rem;
 }
 
