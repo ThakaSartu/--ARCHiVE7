@@ -5,6 +5,28 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+
+
+<div class="panel4-container">
+
+  <div class="item1">
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/84179336_1654298318065152_7177211679895849743_n.jpg?stp=dst-jpg_s552x414&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=1lQeGY47TYcAX-kOT18&_nc_ht=scontent-lax3-2.xx&oh=00_AT8P3bM4-xbIqcw3Z6ejIKWnVn-qt6MUTXk42xygLH9f-g&oe=63159A07">
+  </div>
+
+  <div class="item2">
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/84179336_1654298318065152_7177211679895849743_n.jpg?stp=dst-jpg_s552x414&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=1lQeGY47TYcAX-kOT18&_nc_ht=scontent-lax3-2.xx&oh=00_AT8P3bM4-xbIqcw3Z6ejIKWnVn-qt6MUTXk42xygLH9f-g&oe=63159A07">
+  </div>
+
+  <div class="item3">
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/84179336_1654298318065152_7177211679895849743_n.jpg?stp=dst-jpg_s552x414&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=1lQeGY47TYcAX-kOT18&_nc_ht=scontent-lax3-2.xx&oh=00_AT8P3bM4-xbIqcw3Z6ejIKWnVn-qt6MUTXk42xygLH9f-g&oe=63159A07">
+  </div>
+
+  <div class="item4">
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/84179336_1654298318065152_7177211679895849743_n.jpg?stp=dst-jpg_s552x414&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=1lQeGY47TYcAX-kOT18&_nc_ht=scontent-lax3-2.xx&oh=00_AT8P3bM4-xbIqcw3Z6ejIKWnVn-qt6MUTXk42xygLH9f-g&oe=63159A07">
+  </div>
+
+</div>
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -20,7 +42,7 @@
   </div>
 </div>
 
-<img src="[https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/GRAVEYARDTURNTABLES.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/GRAVEYARDTURNTABLES.jpg">
 
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -42,9 +64,21 @@
 
 [Ms. Marcus began her romance with the arts through dance. As a young child...ReadMore](https://www.shocphoto.com/about)
 
-![https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/84179336_1654298318065152_7177211679895849743_n.jpg?stp=dst-jpg_s552x414&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=1lQeGY47TYcAX-kOT18&_nc_ht=scontent-lax3-2.xx&oh=00_AT8P3bM4-xbIqcw3Z6ejIKWnVn-qt6MUTXk42xygLH9f-g&oe=63159A07](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/84179336_1654298318065152_7177211679895849743_n.jpg?stp=dst-jpg_s552x414&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=1lQeGY47TYcAX-kOT18&_nc_ht=scontent-lax3-2.xx&oh=00_AT8P3bM4-xbIqcw3Z6ejIKWnVn-qt6MUTXk42xygLH9f-g&oe=63159A07)
 
-![https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/106594650_1655938891234428_2233395544189662000_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=1NxnabYvivIAX8LU-B4&_nc_ht=scontent-lax3-1.xx&oh=00_AT9o_adSkYO6QLkqahkT4wKgaYrCKSg-AnH34N6uVIUIPw&oe=6315A474](https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/106594650_1655938891234428_2233395544189662000_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=1NxnabYvivIAX8LU-B4&_nc_ht=scontent-lax3-1.xx&oh=00_AT9o_adSkYO6QLkqahkT4wKgaYrCKSg-AnH34N6uVIUIPw&oe=6315A474)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/106594650_1655938891234428_2233395544189662000_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=1NxnabYvivIAX8LU-B4&_nc_ht=scontent-lax3-1.xx&oh=00_AT9o_adSkYO6QLkqahkT4wKgaYrCKSg-AnH34N6uVIUIPw&oe=6315A474">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/106594650_1655938891234428_2233395544189662000_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=1NxnabYvivIAX8LU-B4&_nc_ht=scontent-lax3-1.xx&oh=00_AT9o_adSkYO6QLkqahkT4wKgaYrCKSg-AnH34N6uVIUIPw&oe=6315A474">
+      </div>
+    </div>
+  </div>
+</div>
 
 ![https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121357084_1749895675172082_793240511531561788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=oFFGGjGlr8kAX98qj7T&_nc_ht=scontent-lax3-2.xx&oh=00_AT-InSle7j829XApzwNZacfHF4q0c25ttZfyNGJCXoMzCw&oe=6315DF4D](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121357084_1749895675172082_793240511531561788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=oFFGGjGlr8kAX98qj7T&_nc_ht=scontent-lax3-2.xx&oh=00_AT-InSle7j829XApzwNZacfHF4q0c25ttZfyNGJCXoMzCw&oe=6315DF4D)
 
