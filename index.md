@@ -6,6 +6,21 @@
 {% endhighlight %}
 
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/135419878_1825095740985408_6579308600141012418_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=K8xhPrkVut0AX-_hkrH&_nc_oc=AQmjTr_P6P_Zdt_aExr6KLLGhKkwp-mtEjb28bMS-PMb-V0sDkXu8YCFdjBZr6HpvH8IBgv6ckPH_zFXfChXzOEk&tn=8fyA6EaSghqhMRXR&_nc_ht=scontent-lax3-1.xx&oh=00_AT_UbQ08pY2zNIdG8u5MDsKeCJW3mZ7hMbmV6KMWNpunDA&oe=6313911C">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134858017_1825095757652073_946978845847012539_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=KyiHowwNeQIAX9WlJef&_nc_ht=scontent-lax3-2.xx&oh=00_AT-rRMsTCqMw5QfHBZuwyi8DS2OsBKiK3qHP2Tinbe1Wtg&oe=631608AE">
+      </div>
+    </div>
+  </div>
+</div>
+
 [Maxwell's Best](https://www.youtube.com/watch?v=NS4vzUdFdQ4)
 <div class="panel4-container">
 
