@@ -6,6 +6,23 @@
 {% endhighlight %}
 
 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134047465_1824448104383505_8670164328192079049_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iozKoIQnN_oAX-KugqG&_nc_ht=scontent-lax3-1.xx&oh=00_AT8378CztgaNQKLMQfKSQtvlphONZJBk1hqqwrbJTAhoCQ&oe=63158A95">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134047465_1824448104383505_8670164328192079049_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iozKoIQnN_oAX-KugqG&_nc_ht=scontent-lax3-1.xx&oh=00_AT8378CztgaNQKLMQfKSQtvlphONZJBk1hqqwrbJTAhoCQ&oe=63158A95">
+      </div>
+    </div>
+  </div>
+</div>
+
+
 [M.I.A. - Bring The Noize (Matangi Street Edition)](https://www.youtube.com/watch?v=RvUVxYndYuU)
 
 
