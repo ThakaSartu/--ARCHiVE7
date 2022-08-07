@@ -6,7 +6,7 @@
 {% endhighlight %}
 
 
-
+[Maxwell's Best](https://www.youtube.com/watch?v=NS4vzUdFdQ4)
 <div class="panel4-container">
 
   <div class="item1">
@@ -114,6 +114,23 @@
     </div>
   </div>
 </div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTU_AS_NORMANiE__THANKS_FOR_THE_SONG_I_LOVE_YOU_ALWAYS.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTU_AS_NORMANiE__THANKS_FOR_THE_SONG_I_LOVE_YOU_ALWAYS.PNG" alt="Macross - Do You Remember Love ?">
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://soundcloud.com/nija-music/love-like-this?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
+  <p>Love Like This - Nija</p>
+</a>
 
 ![https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121357084_1749895675172082_793240511531561788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=oFFGGjGlr8kAX98qj7T&_nc_ht=scontent-lax3-2.xx&oh=00_AT-InSle7j829XApzwNZacfHF4q0c25ttZfyNGJCXoMzCw&oe=6315DF4D](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121357084_1749895675172082_793240511531561788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=oFFGGjGlr8kAX98qj7T&_nc_ht=scontent-lax3-2.xx&oh=00_AT-InSle7j829XApzwNZacfHF4q0c25ttZfyNGJCXoMzCw&oe=6315DF4D)
 
@@ -194,15 +211,6 @@
 [Stevie Wonder - Songs In The Key Of Life (1976) Part 1 (Full Double Album + Bonus Single)](https://youtu.be/HrJB-MItdVY)
 [STEViE_WONDER::DiSCOGS_PROFiLE::DiSCOGRAPHY_iNFO](https://www.discogs.com/artist/18956-Stevie-Wonder)
 
-{% highlight ruby %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE##############################################
-{% endhighlight %}
-
-
-
 
 <div class="flex3BorderedPaddedROW">
   <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
@@ -231,6 +239,34 @@
     </div>
   </div>
 </div>
+
+## SOCiAL_MEDiA_iS_DEAD
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="Girl in a jacket">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################################
+{% endhighlight %}
+
+
+
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -458,7 +494,7 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
   <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/SosrajOpenZoom.png">
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -489,40 +525,6 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
   </div>
 </div>
 <a href="https://youtu.be/FtPhrCTjMtQ">Akira (アキラ) Japanese Theatrical Trailer 1 </a>
-## SOCiAL_MEDiA_iS_DEAD
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="Girl in a jacket">
-      </div>
-    </div>
-  </div>
-</div>
-## DEAR_SARTU
-Thanks for the song, it left me in tears
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTU_AS_NORMANiE__THANKS_FOR_THE_SONG_I_LOVE_YOU_ALWAYS.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTU_AS_NORMANiE__THANKS_FOR_THE_SONG_I_LOVE_YOU_ALWAYS.PNG" alt="Macross - Do You Remember Love ?">
-      </div>
-    </div>
-  </div>
-</div>
-<a href="https://soundcloud.com/nija-music/love-like-this?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
-  <p>Love Like This - Nija</p>
-</a>
 
 <span class="firstcharacter">
   ## GANG RAPE IN CONCERT LAW – PENAL CODE 264.1 PC</span>
