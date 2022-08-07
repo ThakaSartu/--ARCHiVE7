@@ -6,6 +6,23 @@
 {% endhighlight %}
 
 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/133736543_1825016504326665_8850744545889942906_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=mziWaWkQ6JQAX-kWiSt&_nc_ht=scontent-lax3-1.xx&oh=00_AT_4hgCa0j3HEVSQOzirx8CQT3gMQ2-HCOu6dmFJjEQANg&oe=63138CD4">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/135223052_1825016474326668_4387891127100520341_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=WFYZoP0FcN0AX-zAg26&_nc_ht=scontent-lax3-2.xx&oh=00_AT-XKSvL8_kRwWYjTQ9sSL3XiLdE3DEbPObTO6vjIxsRVg&oe=631447F9">
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
