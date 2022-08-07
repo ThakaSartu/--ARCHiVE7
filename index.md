@@ -20,8 +20,7 @@
   </div>
 </div>
 
-
-![https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/GRAVEYARDTURNTABLES.jpg]
+<img src="[https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/GRAVEYARDTURNTABLES.jpg">
 
 <div class='twoPanelSpread'>
   <div class='row'>
