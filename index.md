@@ -4,6 +4,8 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122407491_1763614243800225_1240787381114116513_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=tnecR3a7fPkAX-7nOvC&_nc_ht=scontent-lax3-2.xx&oh=00_AT9-4RGCPqrBPL6iflbO3yHTuY9JFwDVEoQXVdtmBJQb9g&oe=63184B80" >
+
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/116403610_1683899841771666_4082925721575607582_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=nKH5wJ7yUwQAX-0SDST&_nc_ht=scontent-lax3-2.xx&oh=00_AT91jKBFhFi3g9XE4wZ4FptVrhR88hVaMjYGa8OlZdCZRw&oe=63142706" >
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087240&color=%23ded4d4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashbratz" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashbratz/feel-something-feat-teyana" title="Feel Something (feat. Teyana Taylor)" target="_blank" style="color: #cccccc; text-decoration: none;">Feel Something (feat. Teyana Taylor)</a></div>
 [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
