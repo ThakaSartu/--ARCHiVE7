@@ -1,13 +1,43 @@
-{% highlight python %}
+{% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087240&color=%23ded4d4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashbratz" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashbratz/feel-something-feat-teyana" title="Feel Something (feat. Teyana Taylor)" target="_blank" style="color: #cccccc; text-decoration: none;">Feel Something (feat. Teyana Taylor)</a></div>
 [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
-<a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
 
+<div class="panel4-container">
+    <div class="item1"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item2"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item3"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+</div>
+
+<a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132818075_1816885688473080_7298094709213629150_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=7de2PzowOTcAX92Hr_8&_nc_ht=scontent-lax3-2.xx&oh=00_AT8DZ6n6OFagvIKHOVXf3C822PeGuqTvt0C7bm4ZZm--QA&oe=6317EB01" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132818075_1816885688473080_7298094709213629150_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=7de2PzowOTcAX92Hr_8&_nc_ht=scontent-lax3-2.xx&oh=00_AT8DZ6n6OFagvIKHOVXf3C822PeGuqTvt0C7bm4ZZm--QA&oe=6317EB01" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<div class="panel4-container">
+    <div class="item1"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item2"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item3"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+</div>
+<a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132045058_1812904808871168_5753874003435804384_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=VEjNQEDlawUAX8ZCOWw&_nc_ht=scontent-lax3-1.xx&oh=00_AT8j5M55e1IEfBopspc1tQ5J3cxJ-NQrifnZoqoBBsxYWQ&oe=6317D9E8" >
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
