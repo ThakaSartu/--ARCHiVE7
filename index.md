@@ -4,6 +4,13 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+## Sextrafficking Documentaries Presented by Exoduscry!!
+[EXODUS_CRYFILMS STORIES SHAPE OUR WORLD. We use the power of film to awaken a passion for human dignity and the conviction that no human being should be bought, sold, or sexually exploited. Using hard facts and compelling storytelling with stunning imagery, we invite people around the world to join together to break the cycle of commercial sexual exploitation...ReadMore](https://exoduscry.com/watch/)
+<iframe width="100%" height="490" src="https://www.youtube.com/embed/hzPylqS01qU" title="Raised on Porn | Documentary Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/20x9xEzlODU" title="Pornhub Exposed as #Traffickinghub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/73172036?h=e2bd109bb8" width="100%" height="271" frameborder="0" allowfullscreen></iframe>
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/121700557_1755938824567767_4104357452203518616_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=iY8DUjFIzd0AX9kqXB1&_nc_oc=AQkWX-OzCAawtBqzElMMrGqTmMVtTmHreKyKggW_C27ymFQk1IG4FfQDdw8boOvBxUE&_nc_ht=scontent-lax3-1.xx&oh=00_AT8AGlHtBefwRee6hHSwontbXqq-3keqiSqKGyJEsCt_MA&oe=6318B0FF">
+
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122407491_1763614243800225_1240787381114116513_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=tnecR3a7fPkAX-7nOvC&_nc_ht=scontent-lax3-2.xx&oh=00_AT9-4RGCPqrBPL6iflbO3yHTuY9JFwDVEoQXVdtmBJQb9g&oe=63184B80" >
 
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/116403610_1683899841771666_4082925721575607582_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=nKH5wJ7yUwQAX-0SDST&_nc_ht=scontent-lax3-2.xx&oh=00_AT91jKBFhFi3g9XE4wZ4FptVrhR88hVaMjYGa8OlZdCZRw&oe=63142706" >
