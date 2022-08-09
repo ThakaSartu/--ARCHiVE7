@@ -4,6 +4,22 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/106791993_1659811644180486_2319691107431429378_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=U69nBgrVMmYAX8TaRTu&_nc_ht=scontent-lax3-1.xx&oh=00_AT_yrro-hGuIyeIcUg69Q2zSvtJrBwWpSCuruSh2hhntew&oe=6317FFFA" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/106791993_1659811644180486_2319691107431429378_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=U69nBgrVMmYAX8TaRTu&_nc_ht=scontent-lax3-1.xx&oh=00_AT_yrro-hGuIyeIcUg69Q2zSvtJrBwWpSCuruSh2hhntew&oe=6317FFFA" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/120822793_1742640975897552_8220436921710751824_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=ThpxHYIiriUAX9rV7xs&tn=yDeYolVP_3_Jzc6u&_nc_ht=scontent-lax3-2.xx&oh=00_AT8vcz7f4mxRrRQbIrKmsKyJ8kYjKFAkTi78u-TXk398Vw&oe=6319B714" >
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/120750735_1746341688860814_3372622645216138140_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=AWW1jkN78GgAX-ogQqh&_nc_oc=AQnYxzotwY9DGax7-LAm8qMMyydXYuFOKQLMG3h7vXtCrsKyXjZm9jtq95erV5MbtWU&_nc_ht=scontent-lax3-1.xx&oh=00_AT-j8td17Ev-CFU_ihTJsansGKjUmxTnJNwd_9zWzYQLQA&oe=631A06C2">
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/120972068_1745397688955214_2247172124154146389_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=EmPeVxGDOhUAX_Ry5kw&_nc_ht=scontent-lax3-2.xx&oh=00_AT_pL6Y-xSgS5ZVCbZcgVBEn9tAVZqsVaMdf90-vrC7Vqg&oe=63198E57" >
