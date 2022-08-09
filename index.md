@@ -4,6 +4,24 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/101541776_1625070324321285_7576394942335942656_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=VQdBGK4Lf1QAX-Ok_Rl&_nc_oc=AQnT7J5YiGASZNRufGAU1T4RRraDMuME411Jk68M0wINtS15xPVRWg_RD_8c8cSRrAI&_nc_ht=scontent-lax3-1.xx&oh=00_AT9cahNmUg92yLrxt_C6cTrdVRYE29Dakr-JLF50PbGGRQ&oe=63199936" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/101541776_1625070324321285_7576394942335942656_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=VQdBGK4Lf1QAX-Ok_Rl&_nc_oc=AQnT7J5YiGASZNRufGAU1T4RRraDMuME411Jk68M0wINtS15xPVRWg_RD_8c8cSRrAI&_nc_ht=scontent-lax3-1.xx&oh=00_AT9cahNmUg92yLrxt_C6cTrdVRYE29Dakr-JLF50PbGGRQ&oe=63199936" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/101322522_1625103767651274_3428731937823391744_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=vccOPnzZ4swAX_hEUfd&_nc_ht=scontent-lax3-1.xx&oh=00_AT8OLVd0Vf9TzcqinGG_KC0Cs1RYOcRxdeW6Bie5wquj0g&oe=6317BDF8">
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/103689688_1641900925971558_1775006320369735375_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=z30k3joDy90AX_SJCvx&_nc_ht=scontent-lax3-2.xx&oh=00_AT9IBguuErtM5W91Bvyas2yECakduwD1lh6sNgrES7Nm-w&oe=63196680" >
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/106909660_1655946064567044_4176378830344972309_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=zVYdq0mShIUAX_pmHsZ&_nc_ht=scontent-lax3-1.xx&oh=00_AT-hhOT4YjOadygasekoQe8KTvUEyZVC2qnpBrhNsvaXEg&oe=631A4F5C" >
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/104467864_1644079422420375_1831294445078167139_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=H001mI0bVgMAX-s2852&_nc_ht=scontent-lax3-1.xx&oh=00_AT-gR_b3rskIAA8RfCbmCzgWnuZsZFhWop34-7xQJdJ8gA&oe=631A6940" >
