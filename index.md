@@ -5,6 +5,23 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/originals/09/0c/9b/090c9b72075afa3f20a1a20adda37dba.jpg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/originals/09/0c/9b/090c9b72075afa3f20a1a20adda37dba.jpg" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
