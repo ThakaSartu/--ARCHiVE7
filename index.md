@@ -4,6 +4,22 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131984817_1812914812203501_72070088706438789_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=b1kZZg-y064AX_45Cjl&_nc_ht=scontent-lax3-2.xx&oh=00_AT8cxNTU-dDYZIq2gAgHzHeBvI6y0eRKBkicyzeUrBRrjQ&oe=631B9521">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://youtu.be/H_WzjiTzZBA"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130241000_1801926029969046_7792052677691158166_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=nfBD5JaFpaIAX9X6bDN&tn=UgQkB8zpLG3XHYcN&_nc_ht=scontent-lax3-2.xx&oh=00_AT8ai0-NVDuo5uY2-cCZfLdC2UVpBgYZu2GNaTNS-lU-EA&oe=6319D7D8" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/H_WzjiTzZBA"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130241000_1801926029969046_7792052677691158166_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=nfBD5JaFpaIAX9X6bDN&tn=UgQkB8zpLG3XHYcN&_nc_ht=scontent-lax3-2.xx&oh=00_AT8ai0-NVDuo5uY2-cCZfLdC2UVpBgYZu2GNaTNS-lU-EA&oe=6319D7D8" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131984817_1812914812203501_72070088706438789_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=b1kZZg-y064AX_45Cjl&_nc_ht=scontent-lax3-2.xx&oh=00_AT8cxNTU-dDYZIq2gAgHzHeBvI6y0eRKBkicyzeUrBRrjQ&oe=631B9521" >
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131621171_1814229632072019_877404519932633855_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=adM1VJy7lfYAX-fYI-e&_nc_ht=scontent-lax3-2.xx&oh=00_AT9a2WuXTucIxDRe4_6ZkGKWtVACTZxuwrBPL9pdIQ-POw&oe=6318DB4E" >
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132018400_1816010401893942_829098456843452768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=TGfEzT0IfV0AX-dhhvm&_nc_ht=scontent-lax3-2.xx&oh=00_AT-pGAu1ljXanYZr4AN8G-DOiEKmH6iMoVVMYW5LM304NQ&oe=63181C5D" >
 
