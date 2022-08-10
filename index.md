@@ -5,11 +5,38 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
-<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/ALiCiA.PNG">
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
 <a href="https://youtu.be/UJs6WClFqJU" ><img src="https://nerdtorious.files.wordpress.com/2014/10/cover.jpg" alt="ALICIA_KEYS_IS_MY_WIFE_TOO_SHENEED_COMFORT_FROM_HUMAN_TRAFFICKING"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<a href="https://youtu.be/UJs6WClFqJU" ><img src="https://nerdtorious.files.wordpress.com/2014/10/cover.jpg" alt="ALICIA_KEYS_IS_MY_WIFE_TOO_SHENEED_COMFORT_FROM_HUMAN_TRAFFICKING"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/ALiCiA.PNG">
 
 [Alicia Keys - Teenage Love Affair](https://www.youtube.com/watch?v=UJs6WClFqJU)
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<a href="https://youtu.be/UJs6WClFqJU" ><img src="https://www.graffiti.org/atl/rine_atl09.jpg" alt="ALICIA_KEYS_IS_MY_WIFE_TOO_SHENEED_COMFORT_FROM_HUMAN_TRAFFICKING"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<a href="https://youtu.be/UJs6WClFqJU" ><img src="https://www.graffiti.org/atl/rine_atl09.jpg" alt="ALICIA_KEYS_IS_MY_WIFE_TOO_SHENEED_COMFORT_FROM_HUMAN_TRAFFICKING"> </a>
+         </div>
+    </div>
+  </div>
+</div>
 [PERFECT SPACE::When young vocalist Kelela left her native D.C. for Los Angeles five years ago](https://www.waxpoetics.com/article/behind-kelela-s-soft-spoken-nature-lies-a-fierceness/)
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/7ArTBb7Q4o1YURM0NDHvpa?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
