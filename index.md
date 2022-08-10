@@ -4,6 +4,14 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+[KIDZ BOP Kids - Let Me Love You (Official Lyric Video) [KIDZ BOP 34]](https://www.youtube.com/watch?v=0FPaoznHujA)
+<div class="expandingGallery">
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+</div>
 [Marsha Ambrosius - Far Away](https://www.youtube.com/watch?v=zRwLMC2wP0g)
 <img src="https://www.bombingscience.com/wp-content/uploads/graffiti-gallery/lady/photo-sep-28-11-34-19-am.jpg">
 <img src="https://bsciwp.s3.amazonaws.com/wp-content/uploads/2020/11/15183818/Photo-Mar-20-3-22-26-PM.jpg">
