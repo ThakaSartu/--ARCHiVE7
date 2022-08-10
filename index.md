@@ -10,7 +10,7 @@
 [Alicia Keys - Teenage Love Affair](https://www.youtube.com/watch?v=UJs6WClFqJU)
 
 [PERFECT SPACE::When young vocalist Kelela left her native D.C. for Los Angeles five years ago](https://www.waxpoetics.com/article/behind-kelela-s-soft-spoken-nature-lies-a-fierceness/)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ArTBb7Q4o1YURM0NDHvpa?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/7ArTBb7Q4o1YURM0NDHvpa?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/Screenshot%202022-08-10%2010.52.10%20AM.png" >
 <img src="https://www.graffiti.org/boston/mise_aware_problak_odesy_back_boston_2006.jpg" >
