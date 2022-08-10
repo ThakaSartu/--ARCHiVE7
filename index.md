@@ -4,6 +4,21 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/originals/b3/59/dd/b359dd03cb5fea6b019e4a9513835098.jpg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/originals/b3/59/dd/b359dd03cb5fea6b019e4a9513835098.jpg" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122684004_1763575960470720_3017276801433995810_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=fXK7mw3qsGQAX8WyEdL&_nc_ht=scontent-lax3-2.xx&oh=00_AT8kVgvTd1-lOqgIwaxE1DnAzKvVW2nHrFqZz-NhrtZiEg&oe=63199401" >
 
 [ Musiq - Halfcrazy (Official Music Video)](https://www.youtube.com/watch?v=IP4V3TTC3fw) #Musiq #Halfcrazy #Remastered
