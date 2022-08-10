@@ -5,6 +5,20 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+
+  <iframe width="90%" height="315" src="https://www.youtube.com/embed/wvAnQqVJ3XQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  ## SAATU##iM_DOM4NOW
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/CD-E-LDc384" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  [Scooby Doo Where Are You! 2 4 Hassle In The Castle](https://youtu.be/o7iEu4T3KYY)
+  [SPRAYDAY - Episode 09 - GESER USA](https://www.youtube.com/watch?v=rkPTbKjv_7k)
+  [Product Review: Chrome Test::BOMBiNG_SCiENCE](https://www.youtube.com/watch?v=HXSANKFHrFM)
+  [BREAKFAST_iN_BEiEAD_WRKS New York DJ Red Alert Mixes October 1984.wmv](https://www.youtube.com/watch?v=w8va-oDxTNc)
+  [Learn How to Scratch Vol. 1 with Kool DJ Red Alert ::Home Boys Videos Plus, 1989::](https://www.youtube.com/watch?v=A0k7HpoRqqE)
+  [Can Control - Everything You Need To know](https://youtu.be/S8sBIUYhvnc)
+  [How To Graffiti Pieces: Everything You Need To Know!](https://youtu.be/ALvLLOHFfog)
+  <img src="https://cdn.shopify.com/s/files/1/3005/5554/products/12ozprophet-ny-fat-cap-detail_900x.jpg?v=1518218677">
+
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/100529422_1623616191133365_6493007652581277696_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=JWA12VbgweMAX9ha6vZ&_nc_ht=scontent-lax3-1.xx&oh=00_AT-IEJlBflzAG3q_kBPdVFiqz2XwmuDeHfD4x1BPXHDb2w&oe=631980E0">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/101734291_1625057927655858_4824005523386925056_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=iYyTy3LKTKMAX-mJSvK&_nc_ht=scontent-lax3-1.xx&oh=00_AT8WLAAmzHwAR6GwRhP3uvLjQ8CMY_QJP6Eexc_l4XykQg&oe=6318CDF4" >
 <div class='twoPanelSpread'>
