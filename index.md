@@ -5,7 +5,20 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131948108_1816878531807129_788122532422064999_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=3KtXQLiS5ZoAX8N5wxc&tn=UgQkB8zpLG3XHYcN&_nc_ht=scontent-lax3-2.xx&oh=00_AT9y1TnfSQmQHnskyPazz5AH0Py2ii2saV-W2iUmjOldgw&oe=6317C689" alt="##HUMA_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131995216_1816878521807130_1213513444403099836_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=dyLVjLFof4oAX9c7A-q&_nc_ht=scontent-lax3-2.xx&oh=00_AT-Iz_F8U4lvUnEOBBM72RQgaw07HucLt9MjyXmz1IyIHw&oe=631A4AE0" alt="##SARTUZULA_CANNOT_PICK_HER_OWN_MAN"> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -25,6 +38,7 @@
 [Alicia Keys - Teenage Love Affair](https://www.youtube.com/watch?v=UJs6WClFqJU) [Alicia Keys - You Don't Know My Name (Official Video)](https://www.youtube.com/watch?v=_ST6ZRbhGiA) 
 [Alicia Keys - Troubles](https://www.youtube.com/watch?v=MqZvMjx7AZI)
 [Erykah Badu 1 Hour Chill Songs](https://www.youtube.com/watch?v=SvOuddQleSA)
+[Alicia Keys - Unthinkable (I'm Ready) - The Element Of Freedom](https://www.youtube.com/watch?v=aKHGjkbkbNo)
 
 <div class='twoPanelSpread'>
   <div class='row'>
