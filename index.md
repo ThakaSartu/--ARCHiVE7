@@ -9,6 +9,22 @@
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://www.dyxum.com/images/Lenses/17/17_3.jpg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://www.dyxum.com/images/Lenses/17/17_4.jpg" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
         <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/originals/2a/00/27/2a0027de89e7ea256d20c59520e05880.jpg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
         </div>
     </div>
