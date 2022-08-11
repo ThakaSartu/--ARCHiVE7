@@ -4,6 +4,24 @@
 3 # ANOTHER#########################################THAKA#
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/116798375_1682151975279786_4986392408417685718_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=j0-q7pyNzmcAX8ffC63&_nc_ht=scontent-lax3-2.xx&oh=00_AT8PR9PYBgDrbN9sCVn7EaKsJ0YYT7vJ1rY-0U6HRmUSyA&oe=631CC5ED">
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/lDLEsnXauwU"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/116798375_1682151975279786_4986392408417685718_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=j0-q7pyNzmcAX8ffC63&_nc_ht=scontent-lax3-2.xx&oh=00_AT8PR9PYBgDrbN9sCVn7EaKsJ0YYT7vJ1rY-0U6HRmUSyA&oe=631CC5ED"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
+
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/BEYONCE_AiNT_NO_JOKE_FRANCE___ITS_HER_TRAFFICKERS_BRUH_SHE_GOT_BETTER_SENSE_THAN_AN_APE___JUST_BLAME_SHAWN_CARTER_I_WILL_GET_HER_READY_FOR_A_HEALTHY_REAPPEARANCE.PNG" >
 <div class='twoPanelSpread'>
   <div class='row'>
