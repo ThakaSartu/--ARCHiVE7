@@ -4,8 +4,11 @@
 3 # ANOTHER#########################################THAKA#
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+## UX/Ui ~> DEVELOPMENT
 <img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/kelela.PNG" alt="ALiST_APART_2007ish">
 <img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/kelela.PNG" alt="ALiST_APART_ToDAYish">
+
 [ALiSTAPART_THEN](https://web.archive.org/web/20030402052805/http://www.alistapart.com/stories/journey/)
 [ALiSTAPART__NOW](https://alistapart.com/article/journey/)
 
