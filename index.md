@@ -5,6 +5,8 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+<img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/kelela3.PNG">
+
 ## UX/Ui ~> DEVELOPMENT
 <img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/kelela.PNG" alt="ALiST_APART_2007ish">
 <img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/kelela2.PNG" alt="ALiST_APART_ToDAYish">
