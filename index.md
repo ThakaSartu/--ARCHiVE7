@@ -4,6 +4,9 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+[As technology rapidly evolves, we have a duty to capitalize on innovation by creating platforms that help victims of human trafficking. This panel explores the need for harnessing technology to combat human trafficking and ways agencies can partner together in this fight.](https://www.youtube.com/watch?v=AdseAQpp7YQ)
+
 [HAACK'S CYCLE -  Madison, Wisconsin CW FREESTYLE BMX TOUR 1986](https://www.youtube.com/watch?v=pbZ0P0CQgK4)
 [M.i.c.h.a.e.l * J.a.c.k.s.o.n - T.rille.r (1982)](https://www.youtube.com/watch?v=Ki3hVUgiCV4)
 [Full Detail Lamborghini Countach: Matt Farah](https://www.youtube.com/watch?v=1pEU4GMZBxo)
@@ -18,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
   <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
 </div>
+
 [Marsha Ambrosius - Far Away](https://www.youtube.com/watch?v=zRwLMC2wP0g)
 <img src="https://www.bombingscience.com/wp-content/uploads/graffiti-gallery/lady/photo-sep-28-11-34-19-am.jpg">
 <img src="https://bsciwp.s3.amazonaws.com/wp-content/uploads/2020/11/15183818/Photo-Mar-20-3-22-26-PM.jpg">
