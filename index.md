@@ -8,6 +8,20 @@
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/117810216_1695945743900409_6683704984837593922_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=VQQ12VrlPHYAX_8_WU3&tn=GMGSQGTuSQDEmyR2&_nc_ht=scontent-lax3-2.xx&oh=00_AT8a5OIkip-EY0zx-m4rejM5Cou7D-Cf_oj8E086kE5zCA&oe=631CC445">
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/lDLEsnXauwU"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/117810216_1695945743900409_6683704984837593922_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=VQQ12VrlPHYAX_8_WU3&tn=GMGSQGTuSQDEmyR2&_nc_ht=scontent-lax3-2.xx&oh=00_AT8a5OIkip-EY0zx-m4rejM5Cou7D-Cf_oj8E086kE5zCA&oe=631CC445"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
         <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/117397266_1692328750928775_222360303291553211_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=et-50HYgpK0AX9zke6Q&tn=GMGSQGTuSQDEmyR2&_nc_ht=scontent-lax3-1.xx&oh=00_AT9fLhdOD8s_b6Nxm6KIRl4RpanIKamCi7xw1zDlZqYCgw&oe=6319BC17">
         </div>
     </div>
