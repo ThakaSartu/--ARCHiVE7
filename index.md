@@ -4,6 +4,8 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/120601395_1740649339430049_2185019133830012872_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=7EuvpuRWU_8AX9LNZe1&tn=8fyA6EaSghqhMRXR&_nc_ht=scontent-lax3-2.xx&oh=00_AT8SYh2SoKQKH1XudawgKdqzuALuwCnfGo8WJqTYORwz_Q&oe=631A29F7" >
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/133628007_1819377804890535_6299271124927344454_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=kf0pMpXKLkcAX97hWhw&_nc_ht=scontent-lax3-1.xx&oh=00_AT89dpQr93wYJiAGESfoQTomK2VPPEPnCtegoRoTgmRW7Q&oe=631C8DB3" >
 
 [As technology rapidly evolves, we have a duty to capitalize on innovation by creating platforms that help victims of human trafficking. This panel explores the need for harnessing technology to combat human trafficking and ways agencies can partner together in this fight.](https://www.youtube.com/watch?v=AdseAQpp7YQ)
