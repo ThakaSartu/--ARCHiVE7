@@ -4,7 +4,8 @@
 3 # ANOTHER#########################################THAKA#
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
-
+<img src="https://cdn.shopify.com/s/files/1/0558/2081/files/Barrett_Transformers_Variant_Ext.jpg">
+<img src="https://m.media-amazon.com/images/I/71w1JI++RQL._SX522_.jpg">
 <img src="https://a.1stdibscdn.com/original-vintage-poster-star-wars-the-empire-strikes-back-sci-fi-film-classics-for-sale/1121189/f_207826821601462032571/20782682_master.jpg?disable=upscale&auto=webp&quality=60&width=1318 ">
 <iframe width="100%" height="502" src="https://www.youtube.com/embed/V4Q1iIgQmQc" title="Oromo's unique ruling system recognized as cultural heritage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/m3iNwfhDLOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
