@@ -5,6 +5,8 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+
+## BLARE, But dont let the highs get uncomfortable
 [The Supremes Greatest Hits | Best Songs of The Supremes - Full Album The Supremes NEW Playlist 2022](https://www.youtube.com/watch?v=9zT5syvOp3o)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/266131486&color=%23ef5763&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/chancetherapper" title="&quot;Chance The Rapper&quot;" target="_blank" style="color: #cccccc; text-decoration: none;">&quot;Chance The Rapper&quot;</a> · <a href="https://soundcloud.com/chancetherapper/how-great-feat-jay-electronica-my-cousin-nicole" title="How Great (feat. Jay Electronica &amp; My cousin Nicole)" target="_blank" style="color: #cccccc; text-decoration: none;">How Great (feat. Jay Electronica &amp; My cousin Nicole)</a></div>
