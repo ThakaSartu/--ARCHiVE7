@@ -1,11 +1,10 @@
 
-<<<<<<< HEAD
-=======
-    <img src="https://content.magnumphotos.com/wp-content/uploads/2018/04/cortex/par63-teaser-story-big.jpg">
-
+## HUMA'S MAGIC_CITY_SISTERS_ARE_MY_WIVES_AS_WELL
+<img src="https://content.magnumphotos.com/wp-content/uploads/2018/04/cortex/par63-teaser-story-big.jpg">
+<img src="https://s3.amazonaws.com/bsciwp/wp-content/uploads/2016/04/logo-2-ret.png" >
 <img src="https://content.magnumphotos.com/wp-content/uploads/2016/05/cortex/par13185-teaser-story-big.jpg">
 <img src="https://miro.medium.com/max/480/1*MGcLJS1ZvMFcBA94PXn16Q.png">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" >
     
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MQs22Kt-vZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
