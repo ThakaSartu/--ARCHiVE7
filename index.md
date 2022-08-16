@@ -1,11 +1,7 @@
-{% highlight ruby %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER#########################################THAKA#
-4 # UNiVERSE##########################################HUMA
-{% endhighlight %}
 
-
+<<<<<<< HEAD
+=======
+<img src="https://content.magnumphotos.com/wp-content/uploads/2016/05/cortex/par13185-teaser-story-big.jpg">
 <img src="https://miro.medium.com/max/480/1*MGcLJS1ZvMFcBA94PXn16Q.png">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" >
     
@@ -1833,3 +1829,5 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
   ```
   The final elemenT.
   ```
+
+>>>>>>> c3f5f937a168763fa77dd9a9990a105d3351f975
