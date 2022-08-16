@@ -1,6 +1,8 @@
 
 <<<<<<< HEAD
 =======
+    <img src="https://content.magnumphotos.com/wp-content/uploads/2018/04/cortex/par63-teaser-story-big.jpg">
+
 <img src="https://content.magnumphotos.com/wp-content/uploads/2016/05/cortex/par13185-teaser-story-big.jpg">
 <img src="https://miro.medium.com/max/480/1*MGcLJS1ZvMFcBA94PXn16Q.png">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" >
