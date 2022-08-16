@@ -1,5 +1,5 @@
-
-<a href="https://youtu.be/t_g4DHxMvu8" ><img src="https://m.media-amazon.com/images/I/616XnYVjV5L._AC_SL1004_.jpg"></a>
+<a href="https://www.youtube.com/watch?v=_jnG_U414y4&list=PLMHR2xnx8VCrcHUoyjvemE8T1_DMdv2U-" ><img src="http://adb.arcadeitalia.net/media/mame.current/marquees/xmvsf.png"></a>
+<a href="https://youtu.be/t_g4DHxMvu8" ><img src="http://adb.arcadeitalia.net/media/mame.current/marquees/jpark.png"></a>
 <iframe src="https://archive.org/embed/arcade_nbajam" width="100%" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/ME_an_CORAL_vs_CRAE.PNG" >
 ## HUMA'S MAGIC_CITY_SISTERS_ARE_MY_WIVES_AS_WELL
