@@ -1,4 +1,7 @@
 
+
+<iframe src="https://archive.org/embed/arcade_nbajam" width="100%" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/ME_an_CORAL_vs_CRAE.PNG" >
 ## HUMA'S MAGIC_CITY_SISTERS_ARE_MY_WIVES_AS_WELL
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1322633827&color=%23070707&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/ms-nasty" title="Ms. Nasty" target="_blank" style="color: #cccccc; text-decoration: none;">Ms. Nasty</a></div>
 <img src="https://content.magnumphotos.com/wp-content/uploads/2018/04/cortex/par63-teaser-story-big.jpg">
