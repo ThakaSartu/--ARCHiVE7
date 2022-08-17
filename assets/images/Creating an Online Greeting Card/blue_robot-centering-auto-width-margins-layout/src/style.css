@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@600&family=Source+Code+Pro&display=swap');
+body {
+	margin:50px 0px; padding:0px;
+  font-family: 'Cabin', sans-serif;
+  font-family: 'Source Code Pro', monospace;
+	text-align:center;
+	}
+	
+#Content {
+	width:500px;
+font-family: 'Cabin', sans-serif;
+font-family: 'Source Code Pro', monospace;
+	margin:20px auto;
+	text-align:left;
+	padding:15px;
+	border:1px dashed #333;
+	background-color:#eee;
+	}
