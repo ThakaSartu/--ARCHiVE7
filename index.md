@@ -1,4 +1,19 @@
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
 <img src="https://i.pinimg.com/originals/5b/7d/11/5b7d11d64709c5ad09841e4ba1f2d13f.jpg" alt="My_Mommy_is_Yajida_for_CORAL_and_JABDU_MEYU_JACKSON_NINE_WONDERFUL_YODA_and_CYNTHIA_AND_THE_LITTLIST_ONE_FROM_KELELA">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<img src="https://i.pinimg.com/originals/5b/7d/11/5b7d11d64709c5ad09841e4ba1f2d13f.jpg" alt="My_Mommy_is_Yajida_for_CORAL_and_JABDU_MEYU_JACKSON_NINE_WONDERFUL_YODA_and_CYNTHIA_AND_THE_LITTLIST_ONE_FROM_KELELA">
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://i.pinimg.com/originals/5b/7d/11/5b7d11d64709c5ad09841e4ba1f2d13f.jpg" alt="My_Mommy_is_Yajida_for_CORAL_and_JABDU_MEYU_JACKSON_NINE_WONDERFUL_YODA_and_CYNTHIA_AND_THE_LITTLIST_ONE_FROM_KELELA">
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -8,7 +23,7 @@
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <img <img src="http://94hiphop.com/wp-content/uploads/2013/12/Dis-N-Dat-Bumpin-400x400.jpg" >
+        <img src="http://94hiphop.com/wp-content/uploads/2013/12/Dis-N-Dat-Bumpin-400x400.jpg" >
       </div>
     </div>
   </div>

@@ -1,6 +1,7 @@
 @import "rouge-base16-dark";
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
 @import "default_colors";
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
 
 $body-background: $cod-grey  !default;
 $body-foreground: $gallery  !default;
@@ -24,7 +25,8 @@ body {
   line-height: 1.5;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   background-attachment: fixed;
-  font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+
 }
 
 /* General & 'Reset' Stuff */
@@ -33,7 +35,7 @@ img {
   object-fit: cover;
   padding: 0px;
   margin: 0px;
-  max-width: 100%;
+  width: 100%;
   column-span: all;
   border: 0px solid #c9ff23;
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
@@ -46,9 +48,9 @@ img {
   margin: 0 auto;
   padding: 0px;
   border-left: #c9ff23;
-  /* ##ADDED##BOX_SHADOW */
+  /* ##ADDED##BOX_SHADOW 
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
+*/
 }
 
 iframe {
