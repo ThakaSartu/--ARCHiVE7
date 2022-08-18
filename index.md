@@ -1,3 +1,38 @@
+## CRUiSiN_CALi_SOUNDS_4_PCH_US1::DATE_IDEAS 
+<a href="https://www.youtube.com/watch?v=6npSwAc2rWw"> Feel It Boy · Beenie Man · Janet Jackson </a>
+  <a href="https://www.youtube.com/watch?v=j7QWJXXqiOc">Super Cat--Nuff Man A Dead (GENERALLY_KNOWN_MiX)</a>
+    <a href="https://www.youtube.com/watch?v=4N7gITLIip4">Super Cat - Nuff Man A Dead (Wild Apache Productions mix)</a>
+    <a href="https://youtu.be/-u5m_LfiXzM">Super Cat - Dolly My Baby ft Puff_DADDY and The_Notorious_BiG</a>
+    <a href="https://youtu.be/zM4HXY1cLIY">I Chase the Devil · Max Romeo · The Upsetters</a>
+    <a href="https://www.youtube.com/watch?v=jlFJ1BA37vs">Bob Marley - Crazy Baldhead Live from The Beacon Theater, NYC 4-30-76</a>
+    <a href="youtube.com/watch?v=eR8UnjYag-U">Police In Helicopter · John Holt</a>
+    <a href="https://youtu.be/uozhx1xeTDg" alt="BARRiNGTON_LEVY UNDER_Mi_SENSi">BARRiNGTON_LEVY UNDER_Mi_SENSi</a>
+    <a href="https://youtu.be/Gk4ivz0dm1s" alt="Call On The Father · Beres Hammond">Call On The Father · Beres Hammond</a>
+<a href="https://fossheim.io/writing/posts/css-text-gradient/">How to add a gradient overlay to text with CSS</a>  <a href="https://youtu.be/TSffz_bl6zo">SNOW_iNFORMER::ANGLO_REGGAE</a>
+    <a href="https://youtu.be/SDsMkluc_Mk" alt="She Nuh Ready Yet · Spragga Benz REGGAE">She Nuh Ready Yet · Spragga Benz REGGAE_GOLD98</a>
+    <a href="https://youtu.be/d7S8qZ2c1R4">Love Sponge · Buju Banton</a>
+    <a href="https://www.youtube.com/watch?v=nMD4GumDjxA" alt="Buju Banton - CHAMPiON">Buju Banton - CHAMPiON</a>
+    <a href="https://youtu.be/3jVNX7UI2tw" alt="Whatcha Gonna Do · Peter Tosh"> Whatcha Gonna Do · Peter Tosh</a>
+    <a href="https://youtube.com/watch?v=YwSU0rcVTaE%20%20%3C" alt="Buju Banton - Wanna Be Loved (Official Music Video)">Buju Banton - Wanna Be Loved (Official Music Video)</a>
+    <a href="https://youtu.be/6M-ppiL7EPM" alt="Beenie Man- Bookshelf- Bookshelf Riddim"> Beenie Man- Bookshelf- Bookshelf Riddim</a>
+    <a alt="Beenie Man ‎– Crazy Notion (Beenie Man ‎– Art And Life, Virgin, 2000)" href="https://www.youtube.com/watch?v=X1RgygADUpE&t=5s">Beenie Man ‎– Crazy Notion (Beenie Man ‎– Art And Life, Virgin, 2000)</a>
+
+[The Jones Girls - Nights Over Egypt ](https://www.youtube.com/watch?v=pzxwZ6wjDAM) 
+[Remind Me · Patrice Rushen ·Straight From The Heart](https://www.youtube.com/watch?v=SOPp6EgpDrg) 
+[Yearning For Your Love::By::THE_GAP_BAND](https://www.youtube.com/watch?v=afqzUbvi7D8) 
+[The Jones Girls::Who Can I Run To?::1979](https://www.youtube.com/watch?v=JRpKQb9J-nU) 
+[Keke Wyatt::NOTHiNG_iN_THiS_WORLD](https://www.youtube.com/watch?v=diEV1qC34Og) 
+[Stephanie Mills-Two Hearts Featuring Teddy Pendergrass](https://www.youtube.com/watch?v=uJ7HN1nNdbc) 
+[NEW_EDiTiON::Cool It Now (Official Video)](https://www.youtube.com/watch?v=RZUq6N7Gx1c) 
+[NEW_EDiTiON::Mr. Telephone Man](https://www.youtube.com/watch?v=GsWrlzjxbPY) 
+[BOBBY_BROWN::Every Little Step](https://www.youtube.com/watch?v=muDCggSpqpE) 🔥 
+[A1 Warm It Up (LP Version) Producer – Jermaine Dupri](https://www.youtube.com/watch?v=fwXfhQaBRZI) 🔥 
+[TLC - What About Your Friends (Official Video)](https://www.youtube.com/watch?v=92gHq1s6G-c) 
+[Another Bad Creation - Iesha (Official Music Video)](https://www.youtube.com/watch?v=ZDPIK7Fz_g4) 
+[SWV – You're The One Genre: Funk / Soul Style: RnB/Swing, Hip Hop Year: 1996](https://www.youtube.com/watch?v=Ua4fg2FQ6w8) 
+[BRANDY::Sittin' Up In My Room from Waiting to Exhale - Original SoundtracK](https://www.youtube.com/watch?v=DGgANpSjoas) 
+[702 - Steelo feat. Missy Elliott::1996](https://www.youtube.com/watch?v=LdvRwHhla6Q)
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SvBVDibOrgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="476" src="https://www.youtube.com/embed/2uMNtOQOaLU" title="Ghost in the Shell - English Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/b4cRlrKdI6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
