@@ -1,5 +1,18 @@
 ## Dear Huma
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+       <a href="https://youtu.be/mPCHG2VB4Hc" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://i.ebayimg.com/images/g/GgwAAOSwbzdgfKBh/s-l500.jpg" ></a>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+       <a href="https://youtu.be/mPCHG2VB4Hc" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://m.media-amazon.com/images/I/71R1peC7JFL._SX522_.jpg" ></a>
+      </div>
+    </div>
+  </div>
+</div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/fbKcDDH_g5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="407" src="https://www.youtube.com/embed/vfeYisk_71U" title="Goodie Mob & Big Rube - Blood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 This is a recording from a show my fellow JamesBrown student, and HELLA_DOPE_DiSC_JOCKEY county mate... As in LA County... We live in Los Angeles County, andI have no problem with him... Unless Mega poisoned LoSAnGeLeS djWORLD to my existance... He might not tell me where Muna is, but I doubt he know that many people anyway... But THE_LOW_END_THEORY was a party talent movement like Apache back home...See ZEKE below the soundcloud iframe
