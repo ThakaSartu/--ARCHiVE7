@@ -1,3 +1,4 @@
+
 ## Dear Huma
 [How Our Organization Improved Web Accessibility (Case Study)](https://www.smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/)
 
@@ -32,7 +33,7 @@ A grid system provides an easy way for designers to structure and present conten
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/422956530?h=4a5a06de5d&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-[5 Classic Books Every Designer Should Have by Margaret Penney | November 11, 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
+[5 Classic Books Every Designer Should Have by Margaret Penney ](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
 
 <div class="twoPanelSpread">
   <div class="row">
@@ -55,7 +56,7 @@ A grid system provides an easy way for designers to structure and present conten
 [NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 
 <img src="https://www.hotfootdesign.co.uk/wp-content/uploads/2015/11/nasa07_1.jpg">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Minolta_35mm_camera.jpg">
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/vqzEWzorf5A" title="Little Lulu: A Bout with a Trout (1947) - Classic Cartoon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class='twoPanelSpread'>
   <div class='row'>
