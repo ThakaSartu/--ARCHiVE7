@@ -1,7 +1,24 @@
+@import "default_colors";
 @import "rouge-base16-dark";
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
-@import "default_colors";
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Permanent+Marker&family=Play:wght@400;700&family=Raleway:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Russo+One&family=Space+Grotesk:wght@300;400;500;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+/* 
+
+CSS rules to specify families
+
+font-family: 'Comfortaa', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Play', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Red Hat Display', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Russo One', sans-serif;
+font-family: 'Space Grotesk', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+*/
 
 $body-background: $cod-grey  !default;
 $body-foreground: $gallery  !default;
@@ -25,7 +42,7 @@ body {
   line-height: 1.5;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   background-attachment: fixed;
-  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-family: 'Raleway', sans-serif;
 
 }
 
@@ -105,7 +122,6 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
-  font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
   color: $conifer; //$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
     0 0 5px rgba(181, 232, 83, 0.1),
@@ -127,16 +143,17 @@ header h1 {
 
 
 header h1:before {
-font-family: 'Big Shoulders Display', cursive;
-  content: "./BUBBLEGUMPOP";
-  font-size: 4rem;
+/* font-family: 'Big Shoulders Display' */, cursive;
+font-family: 'Russo One', sans-serif;
+
+/*  content: "./BUBBLEGUMPOP"; */
+  font-size: 3.5rem;
 }
 
 header h2 {
   font-size: 18px;
   font-weight: 300;
   color: #fff;
-  font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
 }
 
 #downloads .btn {
@@ -167,7 +184,6 @@ h4,
 h5,
 h6 {
   font-weight: normal;
-  font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
   color: $header;
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
 
