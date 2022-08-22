@@ -1,7 +1,11 @@
 
 ## Dear Sevyn
 <img src="https://media.self.com/photos/5991ee1fdc7f316973d3f403/master/pass/sevyn-streeter-1.jpg" alt="##SEVYN_IS_MY_WIFE">
-
+<img src="https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/03/17/187670-untitled-design-34.jpg" alt="Me_and_Sevyn_ENERGY">
+<img src="https://www.goodnewsnetwork.org/wp-content/uploads/2021/04/juno-nasa-jpl-caltech-swri-msss-brian-swift.jpg">
+<img src="https://api.time.com/wp-content/uploads/2017/05/nasa-juno-mission-jupiter.jpg" alt="Erika_RulingPlanet_IS_JUPITER">
+<img src="https://d2xkkdgjnsfvb0.cloudfront.net/Vault/Thumb?VaultID=36050&Interlaced=1&Mode=R&ResX=960&OutputFormat=jpg&Quality=75&ts=1656511106">
+<img src="https://cdn.kqed.org/wp-content/uploads/sites/35/2021/01/image_5608_2e-Jupiter-NASA-JPL-Caltech-SwRI-MSSS-David-Marriott-1020x628.jpg">
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/4uMLVRWwEg8" title="Young Man's Fancy (1952)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
