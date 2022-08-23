@@ -1,6 +1,7 @@
 
 ## Dear Sevyn
 
+[New Edition - Can You Stand The Rain (Official Music Video)](https://www.youtube.com/watch?v=7flrKMGfwjw)
 [New Edition - If It Isn't Love (Official Music Video)](https://www.youtube.com/watch?v=ReI6gvzVP0Y)
 <img src="https://media.self.com/photos/5991ee1fdc7f316973d3f403/master/pass/sevyn-streeter-1.jpg" alt="##SEVYN_IS_MY_WIFE">
 <img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_SEVYN/999c5735f26c909e9e7b9454909e7ca3d00f6c5e/assets/images/Untitled.png">
