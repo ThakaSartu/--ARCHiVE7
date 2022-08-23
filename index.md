@@ -1,5 +1,44 @@
 
 ## Dear Sevyn
+<img src="https://media.self.com/photos/5991ee1fdc7f316973d3f403/master/pass/sevyn-streeter-1.jpg" alt="##SEVYN_IS_MY_WIFE">
+<img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_SEVYN/999c5735f26c909e9e7b9454909e7ca3d00f6c5e/assets/images/Untitled.png">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/719304115&color=%235c4444&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/quincy1-music" title="Quincy" target="_blank" style="color: #cccccc; text-decoration: none;">Quincy</a> · <a href="https://soundcloud.com/quincy1-music/bruce-lee-mc" title="Bruce Lee Mc" target="_blank" style="color: #cccccc; text-decoration: none;">Bruce Lee Mc</a></div>
+
+# Jekyll_Headings
+
+<hr>
+
+# HEADiNG1
+## HEADinG2
+### HEADiNG3
+#### HEADinG4
+##### HEADiNG5
+###### HEADiNG6
+<hr>
+
+# HTML_HEADiNGS
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+
+<hr>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="vYLZYqQ" data-editable="true" data-user="bhadupranjal" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/bhadupranjal/pen/vYLZYqQ">
+  Glowing buttons</a> by Pranjal Bhadu (<a href="https://codepen.io/bhadupranjal">@bhadupranjal</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+## How to play games in the Internet Arcade
+
+[HOW_TO_PLAY_THESE_AWESOME_GAMES - TUTORiAL_HERE##CLiCK](https://armchairarcade.com/perspectives/2014/11/06/quick-guide-on-how-to-play-on-the-internet-arcade/)
+<img src="http://adb.arcadeitalia.net/media/mame.current/marquees/nibbler.png?release=205">
+<img src="https://e7.pngegg.com/pngimages/32/535/png-clipart-dig-dug-ii-namco-museum-sky-kid-pac-land-dig-dug-text-logo.png" alt="##BABEE_MAYKiN_IS_ABOWTTAH_COMMINCE">
+<img src="https://arcademarquee.com/wp-content/uploads/2015/02/dig-dug_marquee-scaled.jpg">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294217005&color=%235c4444&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/amon-tobin" title="Amon Tobin" target="_blank" style="color: #cccccc; text-decoration: none;">Amon Tobin</a> · <a href="https://soundcloud.com/amon-tobin/sultan-drops" title="Sultan Drops" target="_blank" style="color: #cccccc; text-decoration: none;">Sultan Drops</a></div>
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="vYLZYqQ" data-editable="true" data-user="bhadupranjal" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/bhadupranjal/pen/vYLZYqQ">
