@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Permanent+Marker&family=Play:wght@400;700&family=Raleway:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Russo+One&family=Space+Grotesk:wght@300;400;500;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
-
+/*
 $body-background: $cod-grey  !default;
 $body-foreground: $gallery  !default;
 $header: $conifer  !default;
@@ -17,13 +17,13 @@ $container-max-width: 1000px;
     @content;
   }
 }
-
+*/
 body {
   margin: 0;
   padding: 0;
-  /* background: $body-background url("../images/bkg.png") 0 0; */
+  /* background: $body-background url("../images/bkg.png") 0 0; 
   color: $body-foreground;
-  /* font-size: 16px; */
+  font-size: 16px; */
   line-height: 1.5;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   background-attachment: fixed;
@@ -45,7 +45,7 @@ img {
 }
 
 .container {
-  width: 90%;
+  width: 80%;
   max-width: $container-max-width;
   margin: 0 auto;
   padding: 0px;
