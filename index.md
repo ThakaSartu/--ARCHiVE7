@@ -1,3 +1,10 @@
+## Yo_Sev
+<IMG src="https://i.pinimg.com/originals/8e/7c/36/8e7c3604eeb16048f6023c507d5b62af.jpg">
+
+## They are scrambling videos I watch... 
+I talked to this guy who complimented me on how well I interact with beautiful women and this is the pain of dealing with a human that has a symetrical face and is at a healthy point on the [bmi](https://www.nhs.uk/common-health-questions/lifestyle/what-is-the-body-mass-index-bmi/). I talked to Moon and Normanie about beauty, and the perception of beauty is what is a real hinderance in healing the assualts and us living in a Safe_Los_Angeles where you can pick your own intimate partner
+
+<iframe width="100%" height="507" src="https://www.youtube.com/embed/Bp6mjUTloUA" title="Transformers The Movie 1986" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Dear Sevyn
 
