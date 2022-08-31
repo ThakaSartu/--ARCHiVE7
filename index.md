@@ -1,6 +1,25 @@
 
 ## Dear Sevyn
 
+## CROSSPOST_FROM_MUNAS_BLOG
+<hr>
+## MUNA_THEY_HACKED_US
+The iframes work when Im not logged in, I do have a german email address, but thats really unprofessional to judge the users location by email address... and I cant get work or social security... Just ask yourself what were the people in yo stank ass ABC tribe doing in the dark? What is Matt Field and Sever an Vedo doin in the dark? Because this is ##MALiCiOUS_iNCOMPETENCE 
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumfm/master/assets/images/HACKED.PNG">
+
+## Dearr Muna, 
+### Im in LongBeach at BillyJean, and Transformers is scrambled like Quxube's videos... 
+I can work and such but these political issues are over my head... The blackballing is insane. No one cares about the Social_BestBuy_Technology_Section_Media. Det_SHiT_BORiNG and they mad I can entertain myself as I work through the prostitution of our dance studio, I love you
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/TRANSFORMERS_IS_SCRAMBLED_AFTER_WE_WATCHED_IT_FAMiLYTiME1.PNG">
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/TRANSFORMERS_IS_SCRAMBLED_AFTER_WE_WATCHED_IT_FAMiLYTiME.PNG">
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1MRyz2eNPJqOhArrP6vcDw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<hr>
+
+[CompTIA A+ Certification Practice Test (Exam 220-1001) (60 Questions with Explained Answers)](https://www.youtube.com/watch?v=KPtlT8TkOyU) I got this cert back in 99. You guys do a lot of reike, If you need to communicate on this vibe with me, talk to Muna, Erika, and Sartu... Erika is the healthiest conduit adjecent to Heather
+
+
 [TOP LIST OF THE MOST USELESS IT CERTS!](https://www.youtube.com/watch?v=wiB1IyLW-dc)
 [New Edition - Can You Stand The Rain (Official Music Video)](https://www.youtube.com/watch?v=7flrKMGfwjw)
 [New Edition - If It Isn't Love (Official Music Video)](https://www.youtube.com/watch?v=ReI6gvzVP0Y)
